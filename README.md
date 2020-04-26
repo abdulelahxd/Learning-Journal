@@ -31,7 +31,7 @@ or ordered list like below
  
 also you can share an image by typing the below 
 
-![google logo](/its place on your files)
+![google logo](https://s3.amazonaws.com/images.seroundtable.com/new-google-logo-animated-1441195158.gif)
 
 as well as sharing links like
 
