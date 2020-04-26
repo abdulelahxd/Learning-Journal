@@ -21,9 +21,12 @@ and if want to do a list you can do it like below
   
   
 or ordered list like below
-1. Item1
-1. Item2
-  1. Item belongs to Item 4
+
+1. item 1
+1. item 2
+1. item 3
+    1. sup item
+    
   
  
 also you can share an image by typing the below 
