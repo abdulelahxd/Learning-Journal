@@ -17,13 +17,13 @@ and if want to do a list you can do it like below
 
 * Item 1
 * Item 2
-  * Item belongs to Item 2 
+   * Item belongs to Item 2 
   
   
 or ordered list like below
 1. Item1
 4. Item2
- 1. Item belongs to Item 4
+  1. Item belongs to Item 4
   
  
 also you can share an image by typing the below 
