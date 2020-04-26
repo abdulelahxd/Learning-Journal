@@ -22,7 +22,7 @@ and if want to do a list you can do it like below
   
 or ordered list like below
 1. Item1
-4. Item2
+1. Item2
   1. Item belongs to Item 4
   
  
