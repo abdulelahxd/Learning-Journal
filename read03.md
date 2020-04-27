@@ -108,3 +108,6 @@ $ git push origin master
 
 *For cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local repository. However, these names can be changed by the user.
 
+.............................
+
+https://abdulelahxd.github.io/Learning-Journal/read03
