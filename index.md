@@ -4,4 +4,8 @@ My name is *abdulelah kassara* I'm 20 years old I was born in Syria I have studi
 
 [what is terminal?](https://abdulelahxd.github.io/Learning-Journal/terminal)
 [what is git?](https://abdulelahxd.github.io/Learning-Journal/git)
+<<<<<<< HEAD:README.md
 [what is markdown?](https://abdulelahxd.github.io/Learning-Journal/markdown)
+=======
+[what is markdown?](https://abdulelahxd.github.io/Learning-Journal/markdown)
+>>>>>>> f70a4f4b9497e7f27cf5404c20f44c793e81e867:index.md
