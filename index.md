@@ -17,4 +17,8 @@
 
 My name is *abdulelah kassara* I'm 20 years old I was born in Syria I have studied information technology in LTUC and I'm so in love in programming as well as I'm looking for more skills.
 
+[what is terminal?](https://abdulelahxd.github.io/Learning-Journal/HW3)
+[what is git?](https://abdulelahxd.github.io/Learning-Journal/read03)
+[what is markdown?](https://abdulelahxd.github.io/Learning-Journal/taskone)
+
 [my-profile](https://github.com/abdulelahxd)
