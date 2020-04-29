@@ -17,10 +17,7 @@ be split up into several sub-headings.<p>
 you follow the structure of what is being written.
 There may even be sub-sub-headings (or lower-level
 headings).</p>
-<h2>Another Sub-Heading</h2>
-<p>Here you can see another sub-heading.</p>
-</body>
-</html>
+
 
 ## Body, Head, Title
 <body>
