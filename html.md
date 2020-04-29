@@ -111,11 +111,12 @@ same line as their neighbouring
 elements. These are known as
 inline elements.
 Examples of inline elements are
+```
 <a>, <b>, <em>, and <img>.
-
+```
 
 ## Div
-The <div> element allows you to
+``` The <div> element allows you to
 group a set of elements together
 in one block-level box.
 For example, you might create
@@ -142,23 +143,28 @@ It can also make it easier to
 follow your code if you have used
 <div> elements to hold each
 section of the page.
+```
 
 
 ## Summary extra markup
+```
 DOCTYPES tell browsers which version of HTML you
 are using.
 You can add comments to your code between the
-<!-- and --> markers.
+``` <!-- and --> ``` markers.
 The id and class attributes allow you to identify
 particular elements.
-The <div> and <span> elements allow you to group
-block-level and inline elements together.
+``` The <div> and <span> elements allow you to group
+block-level and inline elements together. ```
+
+```
 <iframes> cut windows into your web pages through
 which other pages can be displayed.
 The <meta> tag allows you to supply all kinds of
 information about your web page.
 Escape characters are used to include special
 characters in your pages such as <, >, and ©.
+```
 
 
 
@@ -173,7 +179,7 @@ parts of a page. The names of these elements indicate the kind of content
 you will find in them. They are still subject to change, but that has not
 stopped many web page authors using them already.
 
-
+```
 This example has exactly the
 same structure as seen on the
 previous page. However, many
@@ -205,11 +211,11 @@ easier to follow.
 
 The <header> and <footer>
 elements can be used for:
-●● The main header or footer
+The main header or footer
 that appears at the top or
 bottom of every page on the
 site.
-●● A header or footer for an
+A header or footer for an
 individual <article> or
 <section> within the page.
 
@@ -249,7 +255,7 @@ The purpose of the <hgroup>
 element is to group together a
 set of one or more <h1> through
 <h6> elements so that they are
-treated as one single heading.
+treated as one single heading. ```
 
 ## Summary HTML5 LAYOUT
 
