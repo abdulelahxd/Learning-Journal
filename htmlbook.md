@@ -6,7 +6,7 @@ Code
 HTM L Us es El ements
 to Describe the
 Structure of Pages
-``` <html>
+<html>
 <body>
 <h1>This is the Main Heading</h1>
 <p>This text might be an introduction to the rest of
@@ -20,7 +20,7 @@ headings).</p>
 <h2>Another Sub-Heading</h2>
 <p>Here you can see another sub-heading.</p>
 </body>
-</html> ```
+</html>
 
 ## Body, Head, Title
 <body>
