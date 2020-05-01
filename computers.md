@@ -1,4 +1,4 @@
-# How Comouters works 
+# How Computers works 
 ![computer](https://www.netclipart.com/pp/m/221-2215820_vector-laboratory-computer-scientist-computer-science-vector-png.png)
 
 computer science explored how to design a thinking machine that perform four different tasks.
